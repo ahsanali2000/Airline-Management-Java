@@ -1,0 +1,8 @@
+id,from,to,noOfSeats
+74696,Islamabad,London,11-11-2020__12:12,50
+177782,Islamabad,London,26-11-2020__12:12,50
+853788,Islamabad,London,26-11-2020__12:12,50
+6487,Mandi_Bahauddin,Islamabad,11-11-2020__12:12,26
+136965,Mansara,London,01-03-2020__12:30,100
+153562,abc,xyz,10-10-2020__12:30,100
+464176,testfrom,testto,12-02-2020__12:00,100

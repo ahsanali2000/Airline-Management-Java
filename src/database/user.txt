@@ -1,0 +1,9 @@
+username,name,password,isManager
+manager,Branch Manager,12345678,true
+ahsan,Ahsan Ali,abc,false
+ahsanali_2000,Ahsan Ali,abc,false
+AhsanAli2000,Ahsan Ali,abc,false
+Username,Name,Password,false
+Testing,Testing,12345678,false
+ahs,Ahsan Ali,ahsan,false
+test,test user,12345678,false
