@@ -19,4 +19,4 @@ Java airline management project with GUI using Swing
 ### 3.Manager Dashboard
 
 
-![MD](Screenshots/Manager.PNG)
+![MD](Screenshots/manager.PNG)
