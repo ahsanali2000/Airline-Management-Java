@@ -4,3 +4,5 @@ Java airline management project with GUI using Swing
 
 
 -Run the airlineProject.jar file
+
+![Accounts page](Screenshots/Accounts.PNG)
